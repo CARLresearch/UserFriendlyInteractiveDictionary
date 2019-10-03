@@ -1,0 +1,2 @@
+# UserFriendlyInteractiveDictionary
+User Friendly Interactive Dictionary
